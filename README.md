@@ -1,3 +1,6 @@
+<pre>
+<code>
+
 NFT DASHBOARD
 ├── contracts # Solidity folder
     │ ├── MintNFT.sol # Smartcontract for minting NFTs
@@ -22,3 +25,6 @@ NFT DASHBOARD
     │ └── sale.tsx  
     ├── types # Typescript interface file
     └── App.tsx
+
+</code>
+</pre>
