@@ -1,3 +1,6 @@
+![NFTSITE](https://github.com/BCS-4/react_project_KIM_KYEONG-SEOG/assets/148549192/49dff1d9-3ba5-4e45-9a03-8b289cc213a9)
+
+
 <h1>
     NFT SHOP
 </h1>
